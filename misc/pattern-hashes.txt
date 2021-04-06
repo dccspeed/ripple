@@ -1,0 +1,222 @@
+sub-k3.1.escape.gph
+creating or updating graph idx
+0 0 1 
+0 0 1 
+1 1 0 
+Pattern size: 3 Pattern hash: 4110465937 GAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+sub-k4.1.escape.gph
+creating or updating graph idx
+0 0 0 1 
+0 0 0 1 
+0 0 0 1 
+1 1 1 0 
+Pattern size: 4 Pattern hash: 1284580084 BMAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+sub-k5.1.escape.gph
+creating or updating graph idx
+0 0 0 0 1 
+0 0 0 0 1 
+0 0 0 0 1 
+0 0 0 0 1 
+1 1 1 1 0 
+Pattern size: 5 Pattern hash: 2047890444 ADMAAAAAAAAAAAAAAAAAAAAAAAAAAA
+sub-k3.2.escape.gph
+creating or updating graph idx
+0 1 1 
+1 0 1 
+1 1 0 
+Pattern size: 3 Pattern hash: 227016548 OAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+sub-k4.2.escape.gph
+creating or updating graph idx
+0 0 1 1 
+0 0 0 1 
+1 0 0 0 
+1 1 0 0 
+Pattern size: 4 Pattern hash: 3172333349 EMAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+sub-k5.2.escape.gph
+creating or updating graph idx
+0 0 0 1 1 
+0 0 0 0 1 
+0 0 0 0 1 
+1 0 0 0 0 
+1 1 1 0 0 
+Pattern size: 5 Pattern hash: 6761484 BBMAAAAAAAAAAAAAAAAAAAAAAAAAAA
+sub-k4.3.escape.gph
+creating or updating graph idx
+0 0 1 1 
+0 0 0 1 
+1 0 0 1 
+1 1 1 0 
+Pattern size: 4 Pattern hash: 2630303946 DMAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+sub-k5.3.escape.gph
+creating or updating graph idx
+0 0 1 0 1 
+0 0 0 1 1 
+1 0 0 0 0 
+0 1 0 0 0 
+1 1 0 0 0 
+Pattern size: 5 Pattern hash: 972079414 BFIAAAAAAAAAAAAAAAAAAAAAAAAAAA
+sub-k4.4.escape.gph
+creating or updating graph idx
+0 0 1 1 
+0 0 1 1 
+1 1 0 0 
+1 1 0 0 
+Pattern size: 4 Pattern hash: 1619603547 MMAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+sub-k5.4.escape.gph
+creating or updating graph idx
+0 0 0 1 1 
+0 0 0 0 1 
+0 0 0 0 1 
+1 0 0 0 1 
+1 1 1 1 0 
+Pattern size: 5 Pattern hash: 677688392 AHMAAAAAAAAAAAAAAAAAAAAAAAAAAA
+sub-k4.5.escape.gph
+creating or updating graph idx
+0 0 1 1 
+0 0 1 1 
+1 1 0 1 
+1 1 1 0 
+Pattern size: 4 Pattern hash: 1043692825 HMAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+sub-k5.5.escape.gph
+creating or updating graph idx
+0 0 1 0 1 
+0 0 0 1 1 
+1 0 0 0 1 
+0 1 0 0 0 
+1 1 1 0 0 
+Pattern size: 5 Pattern hash: 2043707659 DBMAAAAAAAAAAAAAAAAAAAAAAAAAAA
+sub-k4.6.escape.gph
+creating or updating graph idx
+0 1 1 1 
+1 0 1 1 
+1 1 0 1 
+1 1 1 0 
+Pattern size: 4 Pattern hash: 3891858164 PMAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+sub-k5.6.escape.gph
+creating or updating graph idx
+0 0 0 1 1 
+0 0 0 1 0 
+0 0 0 0 1 
+1 1 0 0 1 
+1 0 1 1 0 
+Pattern size: 5 Pattern hash: 3250148425 BFMAAAAAAAAAAAAAAAAAAAAAAAAAAA
+sub-k5.7.escape.gph
+creating or updating graph idx
+0 0 0 1 1 
+0 0 0 1 1 
+0 0 0 0 1 
+1 1 0 0 0 
+1 1 1 0 0 
+Pattern size: 5 Pattern hash: 2391850762 CKMAAAAAAAAAAAAAAAAAAAAAAAAAAA
+sub-k5.8.escape.gph
+creating or updating graph idx
+0 0 1 1 0 
+0 0 0 1 1 
+1 0 0 0 1 
+1 1 0 0 0 
+0 1 1 0 0 
+Pattern size: 5 Pattern hash: 2524224844 MIMAAAAAAAAAAAAAAAAAAAAAAAAAAA
+sub-k5.9.escape.gph
+creating or updating graph idx
+0 0 1 0 1 
+0 0 0 1 1 
+1 0 0 0 1 
+0 1 0 0 1 
+1 1 1 1 0 
+Pattern size: 5 Pattern hash: 303060053 IHMAAAAAAAAAAAAAAAAAAAAAAAAAAA
+sub-k5.10.escape.gph
+creating or updating graph idx
+0 0 1 1 1 
+0 0 0 0 1 
+1 0 0 1 1 
+1 0 1 0 0 
+1 1 1 0 0 
+Pattern size: 5 Pattern hash: 1579141431 ENMAAAAAAAAAAAAAAAAAAAAAAAAAAA
+sub-k5.11.escape.gph
+creating or updating graph idx
+0 0 0 1 1 
+0 0 0 1 1 
+0 0 0 0 1 
+1 1 0 0 1 
+1 1 1 1 0 
+Pattern size: 5 Pattern hash: 2556247372 APMAAAAAAAAAAAAAAAAAAAAAAAAAAA
+sub-k5.12.escape.gph
+creating or updating graph idx
+0 0 1 1 1 
+0 0 0 1 1 
+1 0 0 0 1 
+1 1 0 0 0 
+1 1 1 0 0 
+Pattern size: 5 Pattern hash: 2278927304 DKMAAAAAAAAAAAAAAAAAAAAAAAAAAA
+sub-k5.13.escape.gph
+creating or updating graph idx
+0 0 0 1 1 
+0 0 0 1 1 
+0 0 0 1 1 
+1 1 1 0 0 
+1 1 1 0 0 
+Pattern size: 5 Pattern hash: 1724698549 BPIAAAAAAAAAAAAAAAAAAAAAAAAAAA
+sub-k5.14.escape.gph
+creating or updating graph idx
+0 0 0 1 1 
+0 0 0 1 1 
+0 0 0 1 1 
+1 1 1 0 1 
+1 1 1 1 0 
+Pattern size: 5 Pattern hash: 3175706180 BPMAAAAAAAAAAAAAAAAAAAAAAAAAAA
+sub-k5.15.escape.gph
+creating or updating graph idx
+0 0 1 1 1 
+0 0 0 0 1 
+1 0 0 1 1 
+1 0 1 0 1 
+1 1 1 1 0 
+Pattern size: 5 Pattern hash: 965635362 CPMAAAAAAAAAAAAAAAAAAAAAAAAAAA
+sub-k5.16.escape.gph
+creating or updating graph idx
+0 0 1 1 1 
+0 0 0 1 1 
+1 0 0 0 1 
+1 1 0 0 1 
+1 1 1 1 0 
+Pattern size: 5 Pattern hash: 966574005 EPMAAAAAAAAAAAAAAAAAAAAAAAAAAA
+sub-k5.17.escape.gph
+creating or updating graph idx
+0 0 1 1 1 
+0 0 1 1 1 
+1 1 0 0 1 
+1 1 0 0 0 
+1 1 1 0 0 
+Pattern size: 5 Pattern hash: 3806944356 DPIAAAAAAAAAAAAAAAAAAAAAAAAAAA
+sub-k5.18.escape.gph
+creating or updating graph idx
+0 0 1 1 1 
+0 0 1 1 1 
+1 1 0 0 1 
+1 1 0 0 1 
+1 1 1 1 0 
+Pattern size: 5 Pattern hash: 2664611430 MPMAAAAAAAAAAAAAAAAAAAAAAAAAAA
+sub-k5.19.escape.gph
+creating or updating graph idx
+0 0 1 1 1 
+0 0 0 1 1 
+1 0 0 1 1 
+1 1 1 0 1 
+1 1 1 1 0 
+Pattern size: 5 Pattern hash: 2917081346 DPMAAAAAAAAAAAAAAAAAAAAAAAAAAA
+sub-k5.20.escape.gph
+creating or updating graph idx
+0 0 1 1 1 
+0 0 1 1 1 
+1 1 0 1 1 
+1 1 1 0 1 
+1 1 1 1 0 
+Pattern size: 5 Pattern hash: 2982612632 HPMAAAAAAAAAAAAAAAAAAAAAAAAAAA
+sub-k5.21.escape.gph
+creating or updating graph idx
+0 1 1 1 1 
+1 0 1 1 1 
+1 1 0 1 1 
+1 1 1 0 1 
+1 1 1 1 0 
+Pattern size: 5 Pattern hash: 3307672482 PPMAAAAAAAAAAAAAAAAAAAAAAAAAAA

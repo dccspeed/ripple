@@ -1,0 +1,29 @@
+name: ripple
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - boost
+  - boost-cpp
+  - cmake
+  - gsl
+  - numpy
+  - pandas
+  - python=3.8
+  - redis
+  - redis-py
+  - sparsehash
+  - tbb
+  - tbb-devel
+  - tqdm
+  - jupyter
+  - matplotlib
+  - networkx
+  - scikit-learn
+  - scipy
+  - seaborn
+  - pip
+  - pip:
+      - pydevd-pycharm==202.7319.64
+      - pystack-debugger==0.9.0
